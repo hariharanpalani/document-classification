@@ -10,6 +10,7 @@ from patterns import IC_PATTERNS, DRIVING_PATTERN, IC_NUMBER_REGREX, \
 # loop 600 to 800
 image_size = [600, 700, 800]
 images = ['ic.png', 'lic.jpg', 'p1.jpg', 'p2.png']
+#images = ['lic.jpg']
 regex_found = False
 
 for image in images:
